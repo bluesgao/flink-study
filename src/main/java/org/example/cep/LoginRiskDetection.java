@@ -1,4 +1,4 @@
-package org.example;
+package org.example.cep;
 
 import org.apache.flink.api.common.eventtime.WatermarkStrategy;
 import org.apache.flink.cep.CEP;
